@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  openai-api-docker:
+    build: .
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    ports:
+      - "8501:8501"
+    environment:
+    - OPENAI_API_KEY
