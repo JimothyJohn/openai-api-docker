@@ -26,7 +26,7 @@ Use the 3 line ./RunCommand.sh script (or your own) to spin up the container.
       ./RunCommand.sh
 ```
 
-Navigate to localhost:8501 in your favorite browser and screw around!
+Navigate to http://localhost:8501/ in your favorite browser and screw around!
 
 # Future additions (pulls welcome!):
 - Reverse proxy (NGINX/Apache) for easy web-hosting
