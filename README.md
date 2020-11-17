@@ -8,7 +8,7 @@ This is designed to be a quick and dirty jumpstart to building an OpenAI Python 
 # Requirements
 - Docker Compose
 
-- OpenAI beta key (see above)
+- [OpenAI beta key](https://beta.openai.com/docs/developer-quickstart/your-api-keys) (see above)
 
 - Must have your API key assigned to $OPENAI_API_KEY environmental variable:
 ```bash
