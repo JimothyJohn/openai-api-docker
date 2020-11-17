@@ -6,7 +6,10 @@ Join the beta: [OpenAI API Waitlist](https://share.hsforms.com/1Lfc7WtPLRk2ppXhP
 This is designed to be a quick and dirty jumpstart to building an OpenAI Python app using Streamlit.
 
 # Requirements
-- Docker Compose
+- [Docker Compose](https://docs.docker.com/compose/install/) OR:
+```bash
+      ./InstallDocker.sh
+```
 
 - [OpenAI beta key](https://beta.openai.com/docs/developer-quickstart/your-api-keys) (see above)
 
